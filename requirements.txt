@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+json
+random
+urllib.request
+seaborn
+plotly
+folium
+warnings
+IPython
